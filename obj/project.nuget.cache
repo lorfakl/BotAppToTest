@@ -1,10 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "nbqbhBOSfW6CtDOautbrbiw+hGjkEVIPoe3Cl69ty9Ln33KvM7bWLbpOntH7ZGQEU6guLVW96JJOLfAnD2v7gA==",
+  "dgSpecHash": "2hUvHCgaQIAr3jvTZlystQdYPx83dKD/nEwNy2u+UtIefmqjylQdNgYV4gi/rVB6dBnIbojlFsuxHI78LhKwfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\apple\\Documents\\GitHub\\Untitled-Japanese-Vocab-Game\\BotAppToTest\\BotAppToTest.csproj",
+  "projectFilePath": "C:\\Users\\apple\\Documents\\GitHub\\BotAppToTest\\BotAppToTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\apple\\.nuget\\packages\\deviceid\\6.2.0\\deviceid.6.2.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\5.0.0\\microsoft.extensions.configuration.usersecrets.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\apple\\.nuget\\packages\\playfaballsdk\\1.140.221024\\playfaballsdk.1.140.221024.nupkg.sha512"
   ],
   "logs": []

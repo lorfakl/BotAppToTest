@@ -1,14 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>8269903a-299e-4bdc-b814-16628c8a51f7</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="DeviceId" Version="6.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
     <PackageReference Include="PlayFabAllSDK" Version="1.140.221024" />
   </ItemGroup>
 
