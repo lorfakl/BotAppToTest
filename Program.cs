@@ -77,6 +77,14 @@ public class BotTesting
     public void WritePlayFabIDToFile(string id)
     {
         PlayFabId = id;
-        File.AppendAllTextAsync("RandomlyCreatedIDs.txt", id+"\n");
+        try
+        {
+            File.AppendAllTextAsync("RandomlyCreatedIDs.txt", id + "\n");
+        }
+        catch(IOException)
+        {
+            Console.WriteLine(id);
+        }
+        
     }
 }
